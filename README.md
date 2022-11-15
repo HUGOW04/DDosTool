@@ -7,7 +7,11 @@ In a distributed denial-of-service attack (DDoS attack), the incoming traffic fl
 A DoS or DDoS attack is analogous to a group of people crowding the entry door of a shop, making it hard for legitimate customers to enter, thus disrupting trade.
 
 Criminal perpetrators of DoS attacks often target sites or services hosted on high-profile web servers such as banks or credit card payment gateways. Revenge, blackmail and hacktivism can motivate these attacks.
-
+## Libs
+```
+pip install tqdm
+pip install pyfiglet
+```
 ## Compile
 ```
 python ddos.py
