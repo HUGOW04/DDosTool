@@ -15,7 +15,7 @@ python ddos.py
 ![image](https://user-images.githubusercontent.com/54809176/202002070-c6f48670-1eaa-453e-b622-d7eeae0a70bc.png)
 
 ## trouble:
-if you miss the libs you can do these commands below
+if you miss the libs you can do these commands below to install them
 ```
 pip install tqdm
 pip install pyfiglet
