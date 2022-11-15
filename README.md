@@ -20,3 +20,5 @@ if you miss the libs you can do these commands below to install them
 pip install tqdm
 pip install pyfiglet
 ```
+## Disclaimer
+This tool must be used in educational purposes only. Your decisions are not my responsibility.
